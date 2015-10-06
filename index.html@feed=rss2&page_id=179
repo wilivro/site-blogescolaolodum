@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comentários sobre: Escola Olodum completa 26 anos</title>
+	<atom:link href="http://www.blogescolaolodum.com.br/?feed=rss2&#038;page_id=179" rel="self" type="application/rss+xml" />
+	<link>http://www.blogescolaolodum.com.br</link>
+	<description>Só mais um blog do WordPress</description>
+	<lastBuildDate>Mon, 29 Nov 2010 15:43:13 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.1</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Por: Mariana</title>
+		<link>http://www.blogescolaolodum.com.br/?page_id=179&#038;cpage=1#comment-302</link>
+		<dc:creator>Mariana</dc:creator>
+		<pubDate>Sat, 28 Aug 2010 17:56:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.blogescolaolodum.com.br/?page_id=179#comment-302</guid>
+		<description>Por favor, gostaria de saber se o Olodum vai se apresentar pela Europa ainda esse ano? Obrigada!
+
+Atenciosamente,
+
+Mariana Ferrari</description>
+		<content:encoded><![CDATA[<p>Por favor, gostaria de saber se o Olodum vai se apresentar pela Europa ainda esse ano? Obrigada!</p>
+<p>Atenciosamente,</p>
+<p>Mariana Ferrari</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: teertacible</title>
+		<link>http://www.blogescolaolodum.com.br/?page_id=179&#038;cpage=1#comment-208</link>
+		<dc:creator>teertacible</dc:creator>
+		<pubDate>Tue, 13 Jul 2010 10:13:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.blogescolaolodum.com.br/?page_id=179#comment-208</guid>
+		<description>hi all my best world !!!</description>
+		<content:encoded><![CDATA[<p>hi all my best world !!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
